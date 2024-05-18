@@ -42,4 +42,4 @@
 * ### UPSKILL EDUCAÇÃO CORPORATIVA: 
     * Lean Six Sigma White Belt
 * ### E. E. CASTRO ALVES
-    * Ensino Médio
+    * Ensino Médio - 2016
