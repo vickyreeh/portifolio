@@ -1,0 +1,119 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: 0;
+}
+
+h3{
+    color: #D67AB1;
+    text-align: start;
+    padding: 32px;
+}
+.header-menu{
+    background-color: #E2A3C7;
+    display: flex;
+    position: fixed;
+    width: 100%;
+    padding: 8px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    height: 10px;
+}
+
+.header-menu nav{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.lista-menu{
+    display: flex;
+    justify-content: space-evenly;
+    width: 30%;
+    list-style: none;
+    align-items: center;
+}
+
+.lista-menu li>a{
+    color: #fdf7fa;
+    font-size: 16px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.principal{
+    display: flex;
+    background-color: #fdf7fa;
+    height: 100vh;
+    width: 100%;
+}
+.subconteiner-principal{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.sobre-mim{
+    padding: 32px;
+}
+.principal-formacao{
+    display: flex;
+    background-color: #fdf7fa ;
+    height: 80vh;
+    width: 100%;
+}
+.subconteiner-formacao{
+    display: flex;
+    flex-direction: column ;
+    justify-content: space-evenly;
+}
+.subconteiner-formacao li>a{
+    font-size: 18px;
+    text-decoration: inherit;
+}
+.lista-formacao{
+    list-style: none;
+}
+.lista-formacao ul li>a{
+    margin-bottom: 52px;
+}
+.principal-projetos{
+    display: flex;
+    background-color: #fdf7fa ;
+    height: 80vh;
+    width: 100%;
+}
+.subconteiner-projetos{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.lista-projetos{
+    list-style: none;
+}
+.lista-projetos ul li>a{
+    margin-bottom: 52px;
+}
+.footer{
+    display: flex;
+    background-color: #60435F;
+    height: 15vh;
+    width: 100%;
+}
+.subconteiner-footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px;
+}
+.lista-footer{
+    list-style: none;
+    
+}
+.lista-footer li>a{
+    margin-bottom: 52px;
+    color: #FDF7FA;
+}
