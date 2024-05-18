@@ -15,7 +15,7 @@
 
 * [Github](https://github.com/vickyreeh/vickyreeh)
 * [Linkedin](https://www.linkedin.com/in/victoriarfsilva/)
-* [Email](mailto:vickyreeh@gmail.com?subject=%5BGITHUB%5D%20Ol%C3%A1%20Vicky!%20Te%20encontrei%20no%20Github&body=Por%20favor%2C%20descreva%20aqui%20o%20motivo%20do%20contato.%0A%0ATe%20respondo%20o%20mais%20breve%20possivel%0A%F0%9F%98%89)
+* [vickyreeh@gmail.com](mailto:vickyreeh@gmail.com?subject=%5BGITHUB%5D%20Ol%C3%A1%20Vicky!%20Te%20encontrei%20no%20Github&body=Por%20favor%2C%20descreva%20aqui%20o%20motivo%20do%20contato.%0A%0ATe%20respondo%20o%20mais%20breve%20possivel%0A%F0%9F%98%89)
 
 
 ## MINHAS EXPERIÊNCIAS:
