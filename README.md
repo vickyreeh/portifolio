@@ -9,7 +9,7 @@
 
 ### Analista de Business Process | Agile | Lean | Análise de dados.
 
->Sou uma analista de business process aspirante a programadore e minha missão é aprimorar a maior quantidade de processos do mundo! 🌎 e criar novos, quando necessário, utilizando ferramentas de mapeamento, automação, e integração de sistemas. Também sou capaz de desenvolver e aplicar treinamentos, oferenciando feedbacks para os novos e antigos colaboradores da equipe. Além disso, sou graduanda em ADS na estácio e autodidata em tecnologia e agilidade, tendo obtido diversas certificações na área. Sou apaixonada por inovação, aprendizado, e colaboração, e busco sempre entregar valor e qualidade para os clientes internos e externos.
+>Sou uma analista de business process aspirante a programadore e minha missão é aprimorar a maior quantidade de processos do mundo! 🌎 e quando necessário, criando novos, , utilizando ferramentas de mapeamento, automação, e integração de sistemas. Também sou capaz de desenvolver e aplicar treinamentos, oferenciando feedbacks para os novos e antigos colaboradores da equipe. Além disso, sou graduanda em ADS na estácio e autodidata em tecnologia e agilidade, tendo obtido diversas certificações na área. Sou apaixonada por inovação, aprendizado, e colaboração, e busco sempre entregar valor e qualidade para os clientes internos e externos.
 
 ## MEUS CONTATOS:
 
